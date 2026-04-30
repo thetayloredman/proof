@@ -1,0 +1,53 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+This document proves the following, if and only if it is signed by a PGP key you trust as mine.
+
+1. This document is authentic and trustworthy.
+2. I own and plan on holding onto the following domains:
+  a. zirco.dev
+3. I own and the following domains, but may not plan on renewing them:
+  a. vyx.sh (expires 2027-01-14)
+4. I previously owned the following domains:
+  a. 0xlogn.dev
+5. I own and control the following OpenSSH ED25519 key:
+  ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINhs339T6j/OuDw06y6ec/900wAMlArLi6MmKY1+IcpC
+6. I own and control the following PGP public key:
+  67FAAA655DBD691E7957E0951594E544D8F8F21E Logan Devine <logan@zirco.dev>
+  The key can be obtained in the following places:
+  a. https://zirco.dev/pgp/logn.pub
+  b. Via WKD on logan@zirco.dev (https://zirco.dev/.well-known/openpgpkey/hu/ek3gkqeibgduw1wr4sb84z1cwymypjp9)
+  c. Via the keys.openpgp.org keyserver
+  Please regularly update my key via WKD or the https URL, only use the keyserver as a fallback.
+7. I own and control the trusted sessions of the following Matrix accounts:
+  a. @logn:zirco.dev (preferred)
+  b. @logn:unredacted.org
+  c. @logn-morg:matrix.org
+8. I own and control the following Git accounts, alongside others:
+  a. github.com/thetayloredman
+  b. git.char.systems/ln
+9. All of my commits should be signed with the PGP key listed above. Treat unsigned commits with caution,
+   but they are not always malicious.
+10. I own, control, and receive mail at all of the email addresses under @zirco.dev.
+11. I own and control the Discord account @0xlogn
+
+You should NEVER trust an account claiming to be me, unless either this SIGNED AND IN-DATE document lists the account, or a document of appropriate authority can be
+produced with a valid PGP or SSH signature. When in doubt, rely on this list.
+
+This document was created:      2026-04-30
+This document was last updated: 2026-04-30
+This document is valid until:   2028-03-14 (when the associated PGP subkey expires)
+
+This document may be updated sooner if changes are relevant.
+
+Mirrors:
+a. https://github.com/thetayloredman/proof
+b. https://git.char.systems/ln/proof
+-----BEGIN PGP SIGNATURE-----
+
+iJEEARYKADkWIQQcuxCF6U4Vn8LX7WtsFU4dvPU49AUCafPeThsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQbBVOHbz1OPQo9AD/YJOQwjQ81pzlfEy/Inyd
++Gv+u1W64YTIETGCfzbFuK8BAKjwRMd/8OkNQGCCMQ/uL76paBtV3Qkl9Py4jK/J
+JPMP
+=gKzB
+-----END PGP SIGNATURE-----

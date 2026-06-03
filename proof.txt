@@ -21,9 +21,10 @@ This document proves the following, if and only if it is signed by a PGP key you
   Please regularly update my key via WKD or the https URL, only use the keyserver as a fallback.
 7. I own and control the trusted sessions of the following Matrix accounts:
   a. @logn:zirco.dev (preferred)
-  b. @logn:unredacted.org
-  c. @logn-morg:matrix.org
-  d. @logn:uwu.zirco.dev
+  b. @logn:uwu.zirco.dev
+  c. @logn:unredacted.org
+  d. @logn:starstruck.systems
+  e. @logn-morg:matrix.org
 8. I own and control the following Git accounts, alongside others:
   a. github.com/thetayloredman
   b. git.char.systems/ln
@@ -35,8 +36,7 @@ This document proves the following, if and only if it is signed by a PGP key you
 You should NEVER trust an account claiming to be me, unless either this SIGNED AND IN-DATE document lists the account, or a document of appropriate authority can be
 produced with a valid PGP or SSH signature. When in doubt, rely on this list.
 
-This document was created:      2026-05-29
-This document was last updated: 2026-04-30
+This document was last updated: 2026-06-03
 This document is valid until:   2028-03-14 (when the associated PGP subkey expires)
 
 This document may be updated sooner if changes are relevant.
@@ -46,9 +46,9 @@ a. https://github.com/thetayloredman/proof
 b. https://git.char.systems/ln/proof
 -----BEGIN PGP SIGNATURE-----
 
-iJEEARYKADkWIQQcuxCF6U4Vn8LX7WtsFU4dvPU49AUCahnMkhsUgAAAAAAEAA5t
-YW51MiwyLjUrMS4xMiwwLDMACgkQbBVOHbz1OPRqOwEA6lzAxJ0esxfJxdl1nQrA
-H0oWvF4J7gLfuFjCx7e5RUMBAI2QlwfMszEqNCFL61K39FAnvHhEqaYTWOoFN4oN
-PXQI
-=XDor
+iJEEARYKADkWIQQcuxCF6U4Vn8LX7WtsFU4dvPU49AUCaiCm9RsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQbBVOHbz1OPRM6AEAovwdQZYaWnlutRIak1zA
+UzYXNV9V0NuLaWWFX7+/TTwBAJQVBMd0COK526zboyslQHRhQVYOfiuVo7t0Avsj
+H1AF
+=6rn5
 -----END PGP SIGNATURE-----

@@ -4,11 +4,12 @@ Hash: SHA512
 This document proves the following, if and only if it is signed by a PGP key you trust as mine.
 
 1. This document is authentic and trustworthy.
-2. I own and plan on holding onto the following domains:
+2. I own and plan on holding onto the following domain(s):
   a. zirco.dev
 3. I own and the following domains, but may not plan on renewing them:
   a. vyx.sh (expires 2027-01-14)
-4. I previously owned the following domains:
+  b. ispresencefixedyet.com (expires 2027-06-08)
+4. I previously owned the following domain(s):
   a. 0xlogn.dev
 5. I own and control the following OpenSSH ED25519 key:
   ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINhs339T6j/OuDw06y6ec/900wAMlArLi6MmKY1+IcpC
@@ -36,7 +37,7 @@ This document proves the following, if and only if it is signed by a PGP key you
 You should NEVER trust an account claiming to be me, unless either this SIGNED AND IN-DATE document lists the account, or a document of appropriate authority can be
 produced with a valid PGP or SSH signature. When in doubt, rely on this list.
 
-This document was last updated: 2026-06-03
+This document was last updated: 2026-06-19
 This document is valid until:   2028-03-14 (when the associated PGP subkey expires)
 
 This document may be updated sooner if changes are relevant.
@@ -46,9 +47,9 @@ a. https://github.com/thetayloredman/proof
 b. https://git.char.systems/ln/proof
 -----BEGIN PGP SIGNATURE-----
 
-iJEEARYKADkWIQQcuxCF6U4Vn8LX7WtsFU4dvPU49AUCaiCm9RsUgAAAAAAEAA5t
-YW51MiwyLjUrMS4xMiwwLDMACgkQbBVOHbz1OPRM6AEAovwdQZYaWnlutRIak1zA
-UzYXNV9V0NuLaWWFX7+/TTwBAJQVBMd0COK526zboyslQHRhQVYOfiuVo7t0Avsj
-H1AF
-=6rn5
+iJEEARYKADkWIQQcuxCF6U4Vn8LX7WtsFU4dvPU49AUCajV//hsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQbBVOHbz1OPSLmQEAvFd5/Xq52P+k5dDsCsA/
+spQJz85wIjIn1aIAsPmMo2gA/3HQSC6FliyCaHgnsAwadMua88U2F2CgCDCv4fmT
+xlIN
+=6TfS
 -----END PGP SIGNATURE-----

@@ -12,7 +12,9 @@ This document proves the following, if and only if it is signed by a PGP key you
 4. I previously owned the following domain(s):
   a. 0xlogn.dev
 5. I own and control the following OpenSSH ED25519 key:
-  ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINhs339T6j/OuDw06y6ec/900wAMlArLi6MmKY1+IcpC
+  ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPRFZdblnTFgWy1YpDUpf6FUyvgC6dbOh5+VbRgvrNQC logan@zirco.dev
+  My prior SSH key, with the fingerprint SHA256:5B/5RhsXx5SmsyNsW+uGSnDS6MQ9fH50smpqFB5LrgU has been COMPROMISED.
+  DO NOT TRUST THAT KEY.
 6. I own and control the following PGP public key:
   67FAAA655DBD691E7957E0951594E544D8F8F21E Logan Devine <logan@zirco.dev>
   The key can be obtained in the following places:
@@ -45,11 +47,11 @@ This document may be updated sooner if changes are relevant.
 Mirrors:
 a. https://github.com/thetayloredman/proof
 b. https://git.char.systems/ln/proof
+
 -----BEGIN PGP SIGNATURE-----
 
-iJEEARYKADkWIQQcuxCF6U4Vn8LX7WtsFU4dvPU49AUCam/X+BsUgAAAAAAEAA5t
-YW51MiwyLjUrMS4xMiwwLDMACgkQbBVOHbz1OPS6jQEArgFESSYviCX8HFHI1Skd
-MDYDLSQq7K6CvE9YjUyhcB8BAKkvWD6z6kiN6zqQjYK76ukwn2dFnlfP+KeVXB0Q
-r4oM
-=AttF
+iHUEARYKAB0WIQQcuxCF6U4Vn8LX7WtsFU4dvPU49AUCantfiAAKCRBsFU4dvPU4
+9O/dAPwNRYrZ3umaJwurKuFg24GGnejDuRJBlIml8HVjQz0kqAEA92O9hZa7OsqM
+9Dv25G0/Xzp0CPyKBOOoMznq9HlvRg0=
+=XEXC
 -----END PGP SIGNATURE-----
